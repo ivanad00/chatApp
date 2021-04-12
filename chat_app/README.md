@@ -1,4 +1,4 @@
-##Simple React chating app
+##Simple React chatting app
 
 
 ##Frontend
