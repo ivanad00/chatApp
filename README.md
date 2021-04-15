@@ -1,8 +1,17 @@
-#Simple React chatting app
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Deployment](#deployment)
 
-#Frontend This project was bootstrapped with Create React App.
+## General info
+* This project is simple React chatting app
+	
+## Technologies
+Project is created with:
+* Frontend: This project was bootstrapped with Create React App - React version: 17.0.2
+* Backend is hosted by https://chatengine.io​
+	
+## Deployment
 
-Backend is hosted by https://chatengine.io​
+* Available at https://chat-appl8.netlify.app/
 
-Deployment
-https://chat-appl8.netlify.app/
