@@ -1,3 +1,6 @@
+## Private chat app
+ <img src="img.png"  width=800px height=400px/>
+
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
@@ -5,6 +8,9 @@
 
 ## General info
 * This project is simple React chatting app
+* new users can be added 
+* an icon is displayed when someone reads the message
+* shows who is online
 	
 ## Technologies
 Project is created with:
